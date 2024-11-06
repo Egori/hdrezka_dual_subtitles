@@ -1,0 +1,29 @@
+{
+    "manifest_description": {
+        "message": "Перегляд фільмів з подвійними субтитрами з HDrezka"
+    },
+    "popup_quality": {
+        "message": "Якість:"
+    },
+    "popup_selectDirectory": {
+        "message": "Вибрати папку"
+    },
+    "info_unknownVoice": {
+        "message": "Невідоме озвучення"
+    },
+    "message_noDataVideo": {
+        "message": "Неможливо отримати дані відео. Перевірте інтернет-з'єднання або застосуйте VPN."
+    },
+    "message_noSubtitles": {
+        "message": "Не вдалося отримати субтитри. Переконайтеся що вибрано відео з субтитрами"
+    },
+    "message_errorLoad": {
+        "message": "Помилка завантаження. Перевірте інтернет-з'єднання або застосуйте VPN."
+    },
+    "message_userBreak": {
+        "message": "Ви перервали завантаження."
+    },
+    "message_badConnect": {
+        "message": ""
+    }
+}

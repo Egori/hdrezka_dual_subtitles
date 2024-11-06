@@ -1,0 +1,29 @@
+{
+    "manifest_description": {
+        "message": "Watching movies with double subtitles from HDrezka"
+    },
+    "popup_quality": {
+        "message": "Quality:"
+    },
+    "popup_selectDirectory": {
+        "message": "Select Folder"
+    },
+    "info_unknownVoice": {
+        "message": "Unknown translate"
+    },
+    "message_noDataVideo": {
+        "message": "Failed to retrieve video data. Check your internet connection or use a VPN."
+    },
+    "message_noSubtitles": {
+        "message": "Subtitles have not been received. Make sure that the video with subtitles is selected"
+    },
+    "message_errorLoad": {
+        "message": "Error loading. Check your internet connection or use a VPN."
+    },
+    "message_userBreak": {
+        "message": "You interrupted the loading."
+    },
+    "message_badConnect": {
+        "message": ""
+    }
+}

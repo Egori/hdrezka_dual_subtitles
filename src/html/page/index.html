@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Subtitulator</title>
+  <link rel="stylesheet" type="text/css" href="css/multisub.css">
+  <link href="videjs/video-js.min.css" rel="stylesheet">
+  <script src="videjs/video.min.js"></script>
+
+
+</head>
+
+<body>
+
+  <div id="video-container">
+
+    <video id="myVideo"></video>
+
+    <!-- <video id="myVideo" class="video-js" controls preload="auto" data-setup="{}"></video> -->
+
+    <!-- контейнер субтитров -->
+    <div id="subtitles-container">
+      <div class="subtitles-container subtitles-container-en" id="subtitles-container-en"></div>
+      <div class="subtitles-container subtitles-container-es" id="subtitles-container-es"></div>
+    </div>
+
+    <!-- контейнер сценария субтитров -->
+    <div class="subtitles-container" id="script-container"></div>
+
+  </div>
+</body>
+<script src="page.js"></script>
+
+</html>
